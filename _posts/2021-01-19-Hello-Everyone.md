@@ -10,7 +10,7 @@ tags:								#标签
     - 生活
 ---
 
-## Teaching as a graduate student
+# Teaching as a graduate student
 >I was very fortunate to teach two classes as a graduate student instructor during the first year of my PhD study. I would like to share some of my personal reflection on how to become a better instructor and how to use TAing as an opportunity to sharpen your skills .
 
 
