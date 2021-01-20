@@ -1,18 +1,18 @@
 # Site settings
-title: Mentongの小🐷窝
-SEOTitle: Mentongの小🐷窝
-header-img: img/header.webp
-email: qiubaiying@gmail.com
-description: "My favorite person is da shuai bi."
-keyword: "Mengtong, BettyHu, Personal Website, Mengtonghu"
+title: Mengtong Hu
+SEOTitle: Mengtong Hu's website
+header-img: img/header_2.webp
+email: mengtong@umich.edu  
+description: "When you can’t find the sunshine, be the sunshine."
+keyword: "Mengtong Hu, Personal Website, Mengtonghu"
 url: "http://mengtongh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/mengtongh/mengtongh.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I am a cutie piggie"
-sidebar-avatar: img/piggie.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Vision without action is just a daydream."
+sidebar-avatar: img/avatar.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
