@@ -38,7 +38,7 @@ tags:								#标签
 > For me, having small talks with students eases some of the awkwardness between us. Ask them about their days or their classes. It helps me get to know some of the students and generally makes my teaching experience more fun. When you know the people you are teaching, you will be more motivated to know whether they grasp the ideas or not. Also, it is helpful for checking on my own performances. Did I make myself clear to students. I like to directly ask my students. Does that make sense to you? Should I explain this concept a little bit more? In the end, you will be benefited from this interaction because they can guide you on how to be a better public speaker. 
 
 
-Build relationship with your professor
+## Build relationship with your professor
 
 I was very lucky to work with one of the most understanding professors I ever met. He knows what students want which to me was a big advantage. When students genuinely enjoy their instructors, they will be less picky on TAs.  While working as a team, you get to have numerous opportunities to interact with your professor who is very likely to be a different person from your thesis advisor. It is always nice to have someone know you well in the department. I always position myself as a learner. I payed particular attention in class on the pedagogy the professor utilizes. I was able to observe how students react to different strategies applied in each class.
 
