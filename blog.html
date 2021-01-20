@@ -6,7 +6,8 @@ header-img: "img/post-bg-rwd.jpg"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+<!--     {{ page.url | prepend: site.baseurl }} -->
+    <a href="{{site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
